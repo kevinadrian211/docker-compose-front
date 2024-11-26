@@ -1,8 +1,4 @@
-<p align="center">
-
  # Practica crear contenedores con yml y proyeto de springboot
-</p>
-
 ## Informe de dos contenedores y proyecto con sprigboot
 ## 2. Tiempo 
  20 minutos
